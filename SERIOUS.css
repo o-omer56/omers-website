@@ -1,0 +1,13 @@
+@font-face {
+    font-family: mandela-font;
+    src: url(mandela-font.ttf);
+}
+body {
+    font-family: mandela-font;
+    background-color: black;
+    color: white;
+}
+#serious {
+    text-align: center;
+    font-size: 30px;
+}
